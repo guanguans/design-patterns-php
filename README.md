@@ -1,6 +1,6 @@
-# design-patterns
+# design-patterns-php
 
-> PHP 的设计模式
+> 设计模式 PHP 示例代码。
 
 ## 目录
 
